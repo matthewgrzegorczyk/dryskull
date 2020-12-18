@@ -15,5 +15,6 @@
     "parcel-bundler": "^1.12.4"
   },
   "dependencies": {
+    "amplitudejs": "^5.2.0"
   }
 }
